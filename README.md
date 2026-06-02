@@ -4,8 +4,6 @@
   <p>
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
     <img src="https://img.shields.io/badge/version-1.0.0-green.svg" alt="Version">
-    <img src="https://img.shields.io/badge/maintained-yes-brightgreen.svg" alt="Maintained">
-    <img src="https://img.shields.io/badge/contributions-welcome-orange.svg" alt="Contributions welcome">
   </p>
   <p>
     <img src="https://img.shields.io/badge/AI%20Transparency-Research-blue" alt="AI Transparency Research">
@@ -128,3 +126,5 @@ Distributed under the MIT License. See the `LICENSE` file for more information.
     <em>Prompt Engineering & AI Transparency</em>
   </p>
 </div>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HighMark-31.AI-Chat-Useful-Prompt)
